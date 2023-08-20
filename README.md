@@ -16,5 +16,5 @@
 ## More job information
 ![more-info-modal](https://github.com/liam709/jobBoard/assets/32212429/5d1797f6-e9a0-4771-af67-e1845281f19a)
 
-##Saved jobs page
+## Saved jobs page
 ![saved-jobs](https://github.com/liam709/jobBoard/assets/32212429/d35c792b-82ba-43f1-a0a8-3e5c988063c2)
