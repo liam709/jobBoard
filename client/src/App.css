@@ -1,0 +1,24 @@
+.App {
+
+    position: relative;
+
+}
+
+body {
+    margin: 0px;
+    position: relative;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+li {
+    display: inline;
+    list-style-type: none
+}
