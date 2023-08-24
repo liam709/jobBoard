@@ -1,0 +1,12 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "![splash](https://github.com/liam709/jobBoard/assets/32212429/73b5c858-355a-47fa-bb38-baec0dc059c2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
