@@ -62,7 +62,7 @@ export default function JobListings() {
             },
             headers: {
                 //Add your own API
-                'X-RapidAPI-Key': 'YOUR-API-KEY-HERE',
+                'X-RapidAPI-Key': '9c03912f2fmsh0ebf495bcf916a0p13a6e8jsnd21bd2905d10',
                 'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
             }
         };
